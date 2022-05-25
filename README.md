@@ -2,8 +2,9 @@
 
 This repository contains code, trained weights of networks, as well as visualizations related to the research project by Viacheslav Vasilev at Skoltech.
 
-Author: Viacheslav Vasilev
-Supervisor: Victor Lempitsky
+**Author**: Viacheslav Vasilev
+
+**Supervisor**: Victor Lempitsky
 
 
 ## Repository structure
